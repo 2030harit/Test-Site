@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MA",
+				"margin\tproperty"
+			],
+			[
+				"F",
+				"float\tproperty"
+			],
+			[
+				"p",
+				"p1"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"f",
+				"font\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"href",
+				"href\tAttr"
+			],
+			[
+				"s",
+				"strong\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/K/Desktop/Test-Site/Lecture 21- Positioning Elements by Floating",
+		"/Users/K/Desktop/Test-Site/Lecture 20- The background Property .html",
+		"/Users/K/Desktop/Test-Site/Lecture 19, Part 3- The Box Model",
+		"/Users/K/Desktop/Test-Site/Lecture 7- Lists",
+		"/Users/K/Desktop/Test-Site/untitled",
+		"/Users/K/Desktop/Test-Site/Lecture 10- Displaying Images.html",
+		"/Users/K/Desktop/Test-Site/Lecture 12- Anatomy of a CSS Rule",
+		"/Users/K/Desktop/Test-Site/Lecture 10- Displaying Images ",
+		"/Users/K/Desktop/Test-Site/Lecture 9- Creating Links.html",
+		"/Users/K/Desktop/Test-Site/Lecture 8- HTML Character Entity References.html",
+		"/Users/K/Desktop/Test-Site/Image.html",
+		"/Users/K/Desktop/Test-Site/Lecture 6- Heading Elements (and some new HTML5 semantic comments) .html",
+		"/Users/K/Desktop/Test-Site/video.html",
+		"/Users/K/Desktop/Test-Site/Lecture 5- HTML Content Models.html",
+		"/Users/K/Desktop/Test-Site/Basic HTML Document Structure",
+		"/Users/K/Desktop/Test-Site/untitled.html",
+		"/Users/K/Desktop/Test-Site/html",
+		"/Users/K/Desktop/Test-Site/index.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 216.0
+	},
+	"pinned_build_system": "",
+	"project": "Lecture 6- Heading Elements (and some new HTML5 semantic comments) .sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 127.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
