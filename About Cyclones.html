@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #ff9900;
+  color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color:#33cc33;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Column container */
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Cyclones</h1>
+  <p>A website created by Dugannt.</p>
+</div>
+
+<div class="navbar">
+  <a href="#">Cyclone 1</a>
+  <a href="#">Cyclone 2</a>
+  <a href="#">Volcanoes 3</a>
+  <a href="#" class="right">Links</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h2>About Cyclones</h2>
+    <h3>In meteorology, a cyclone is a large scale air mass that rotates around a strong center of low atmospheric pressure, counter-clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere as viewed from above. Cyclones are characterized by inward spiraling winds that rotate about a zone of low pressure.</h3>
+    <h5>Photo of cyclones:</h5>
+    <img src="https://i.postimg.cc/MKB31w1M/download.jpg">
+    <p>Cyclones Are desperate</p>
+    <h3>Images of cyclones</h3>
+     <img src="https://i.postimg.cc/MKB31w1M/download.jpg">
+      <img src="https://i.postimg.cc/htjJHDMh/download-2.jpg">
+      <img src="https://i.postimg.cc/ht5Jnk3s/download-1.jpg">
+
+  </div>
+  <div class="main">
+    <h2>Cyclone</h2>
+    <h5>Title description, Dec 12, 2021</h5>
+    <img src="https://i.postimg.cc/ht5Jnk3s/download-1.jpg">
+    <p>In meteorology, a cyclone is a large scale air mass that rotates around a strong center of low atmospheric pressure, counter-clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere as viewed from above. Cyclones are characterized by inward spiraling winds that rotate about a zone of low pressure.</p>
+    <br>
+    <h2>Valcanos</h2>
+    <h5>Title description, Dec 12, 2021</h5>
+        <img src="https://i.postimg.cc/HsGDqB2M/download.jpg">
+    <p>A volcano is a rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface. On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and most are found underwater.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Footer</h2>
+</div>
+
+</body>
+</html>
